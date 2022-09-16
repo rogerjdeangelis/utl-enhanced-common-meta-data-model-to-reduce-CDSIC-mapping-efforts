@@ -119,13 +119,8 @@
     /*  I hope I got all the dependncies on d:/cdm                                                                                                  */
     /*                                                                                                                                              */
     /*  github                                                                                                                                      */
-    /*  https://tinyurl.com/2p8jjrdt                                                                                                                */
-    /*  https://github.com/rogerjdeangelis/utl-reduce-your-sdtm-and-adam-mapping-effort-using-a-common-meta-data-model                              */
-    /*                                                                                                                                              */
-    /*  Related to                                                                                                                                  */
-    /*  https://tinyurl.com/2zps56xc                                                                                                                */
-    /*  https://github.com/rogerjdeangelis/utl-end-to-end-cdisc-SDTM-ADaM-processing                                                                */
-    /*                                                                                                                                              */
+    /*  https://tinyurl.com/mw45rcrx                                                                                                                */
+    /*  https://github.com/rogerjdeangelis/utl-enhanced-common-meta-data-model-to-reduce-CDSIC-mapping-efforts                                      */
     /*                                                                                                                                              */
     /************************************************************************************************************************************************/
     /*                                                                                                                                              */
